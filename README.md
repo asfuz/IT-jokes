@@ -17,3 +17,6 @@ Unfortunately these jokes only work if you git them.
 **Q:** Can somebody help me?
 
 **A:** just Google it
+
+---
+**Sizda dasturlashga oid xazilar bo'lsa shu repositoryga push qiling....**
